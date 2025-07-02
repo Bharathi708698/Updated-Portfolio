@@ -22,9 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
   },
-  "homepage": "https://bharathi708698.github.io/Updated-Portfolio",
   "eslintConfig": {
     "extends": [
       "react-app",
